@@ -1,0 +1,12 @@
+input{
+    max-width: 600px;
+}
+.color-box{
+    height: 200px;
+    background-color: gray;
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+    background-size: cover !important;
+    background-position: center;
+}
